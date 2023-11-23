@@ -1,0 +1,14 @@
+names:
+- healthy
+- plant
+- unhealthy
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: basil-helath
+  url: https://universe.roboflow.com/4th-year-capstone/basil-helath/dataset/2
+  version: 2
+  workspace: 4th-year-capstone
+test: /workspaces/plant_health_detection/datasets/Basil-Helath-2/test/images
+train: /workspaces/plant_health_detection/datasets/Basil-Helath-2/train/images
+val: /workspaces/plant_health_detection/datasets/Basil-Helath-2/valid/images
